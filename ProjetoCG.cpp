@@ -1,7 +1,7 @@
 /*
-*Authors:  Arildes Lima
-*	    	Carlos Henrique Cruz Salgado
-*		Jo„o Ritter	
+*Authors:   Arildes Lima
+*	    Carlos Henrique Cruz Salgado
+*	    Jo√£o Ritter	
 *
 *
 */
